@@ -1,0 +1,18 @@
+#results {
+    display: none;
+}
+
+body {
+    background-image: url("money.jpg");
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(11, 9, 7);
+}
+
+.card {
+    background-color: rgb(64, 239, 157);
+    
+    
+}
